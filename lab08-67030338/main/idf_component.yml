@@ -1,0 +1,9 @@
+dependencies:
+  sensors:
+    git: https://github.com/rattapum1269/Lab08-component-67030338.git
+
+  Display:
+    git: https://github.com/Arthtitaya13032006/Lab-08-67030260.git
+
+  LED:
+    git: https://github.com/B2-BB22/Lab08-component-LED.git
